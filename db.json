@@ -1,16 +1,16 @@
 {
   "tasks": [
-    {"_id": 1, "title": "Install React", "type":  "task", "status": "done"},
-    {"_id": 2, "title": "Setup GitHub", "type":  "task", "status": "review"},
-    {"_id": 3, "title": "Invite Collaborators", "type":  "task", "status": "done"},
-    {"_id": 4, "title": "Install Dependencies", "type":  "task", "status": "ip"},
-    {"_id": 5, "title": "Create App Component", "type":  "feature", "status": "review"},
-    {"_id": 6, "title": "Plan Component Diagram", "type":  "task", "status": "review"},
-    {"_id": 7, "title": "Create Grid View", "type":  "feature", "status": "ip"},
-    {"_id": 8, "title": "Create List View", "type":  "feature", "status": "new"},
-    {"_id": 9, "title": "Create Add View", "type":  "feature", "status": "new"},
-    {"_id": 10, "title": "App Crashes", "type":  "bug", "status": "done"},
-    {"_id": 11, "title": "Find Bugs", "type":  "bug", "status": "new"},
-    {"_id": 12, "title": "Still Crashes", "type":  "bug", "status": "ip"}
+    {_id: 1, title: "Install React", type:  "task", status: "done"},
+    {_id: 2, title: "Setup GitHub", type:  "task", status: "review"},
+    {_id: 3, title: "Invite Collaborators", type:  "task", status: "done"},
+    {_id: 4, title: "Install Dependencies", type:  "task", status: "ip"},
+    {_id: 5, title: "Create App Component", type:  "feature", status: "review"},
+    {_id: 6, title: "Plan Component Diagram", type:  "task", status: "review"},
+    {_id: 7, title: "Create Grid View", type:  "feature", status: "ip"},
+    {_id: 8, title: "Create List View", type:  "feature", status: "new"},
+    {_id: 9, title: "Create Add View", type:  "feature", status: "new"},
+    {_id: 10, title: "App Crashes", type:  "bug", status: "done"},
+    {_id: 11, title: "Find Bugs", type:  "bug", status: "new"},
+    {_id: 12, title: "Still Crashes", type:  "bug", status: "ip"}
   ]
 }
